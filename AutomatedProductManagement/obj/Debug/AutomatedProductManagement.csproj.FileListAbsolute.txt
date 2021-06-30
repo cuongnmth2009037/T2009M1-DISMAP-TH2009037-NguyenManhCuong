@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\bin\Debug\AutomatedProductManagement.exe
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\bin\Debug\AutomatedProductManagement.pdb
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\obj\Debug\AutomatedProductManagement.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\obj\Debug\AutomatedProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\obj\Debug\AutomatedProductManagement.exe
+C:\Users\Admin\RiderProjects\AutomatedProductManagement\AutomatedProductManagement\obj\Debug\AutomatedProductManagement.pdb
